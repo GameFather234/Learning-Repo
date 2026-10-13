@@ -1,8 +1,8 @@
-class device:
+class Device:
     pass
 
-class fan(device):
+class Fan(Device):
     pass
 
-class TV(device):
+class Television(Device):
     pass
